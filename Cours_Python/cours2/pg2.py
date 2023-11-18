@@ -1,0 +1,5 @@
+print("%.2f DH" % 2.35468)
+print("%E DH" % 2.35468)
+print("%s DH" % 2.354)
+print("%d DH" % 2.35)
+print("Text %s Text %d." % ("ZZZ", 32))
